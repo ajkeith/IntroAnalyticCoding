@@ -1,6 +1,8 @@
-## Introduction to Code Development for Analysis
+# Introduction to Code Development for Analysis
 
 This post provides a set of references for code development. 
+
+{:toc}
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
